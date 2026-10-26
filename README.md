@@ -22,7 +22,7 @@
 
 **[Kazz](https://www.kalsel.dev/)** — *Track expenses by voice or scan.*
 
-A personal finance app I build independently, used by **18,200+ people** with **410K+ transactions** logged and a **⭐ 4.8** rating on Google Play.
+A personal finance app I build independently, used by **25,000+ people** with **600K+ transactions** logged and a **⭐ 4.9** rating on Google Play.
 
 - 🧾 **Receipt scanning** — snap a receipt, get itemized expenses
 - 🎙️ **Voice input** — log a transaction just by speaking
