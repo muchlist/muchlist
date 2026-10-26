@@ -81,10 +81,6 @@ A personal finance app I build independently, used by **18,200+ people** with **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muchlist&show_icons=true&hide_border=true&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9&text_color=8B949E&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchlist&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=8B949E&langs_count=8" alt="Top languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=muchlist&hide_border=true&theme=transparent&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak"/>
 </p>
 
